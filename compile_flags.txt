@@ -1,6 +1,6 @@
--std=c99
+-std=c89
 -Wall
 -Wextra
 -Werror
 -Wpedantic
--I.
+-Iinclude
